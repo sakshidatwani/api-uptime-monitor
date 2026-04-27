@@ -1,4 +1,4 @@
-# 🚀 API Uptime Monitor
+# API Uptime Monitor
 
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green)
 ![Framework](https://img.shields.io/badge/Framework-Express-black)
@@ -7,12 +7,12 @@
 
 ---
 
-## 📌 Overview
+## Overview
 API Uptime Monitor is a backend system designed to track the availability and performance of APIs in real time. It periodically checks registered endpoints, logs response status and latency, and provides uptime insights for monitoring service reliability.
 
 ---
 
-## ⚡ Features
+## Features
 - ⏱️ Periodic API health checks  
 - 📊 Uptime and downtime tracking  
 - 🚨 Failure detection  
@@ -21,7 +21,7 @@ API Uptime Monitor is a backend system designed to track the availability and pe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 - **ORM/Tools:** Mongoose / Prisma (if used)  
@@ -29,7 +29,7 @@ API Uptime Monitor is a backend system designed to track the availability and pe
 
 ---
 
-## 🔄 How It Works
+## How It Works
 1. Users register API endpoints  
 2. Background worker periodically sends HTTP requests  
 3. Response status and latency are recorded  
@@ -37,7 +37,7 @@ API Uptime Monitor is a backend system designed to track the availability and pe
 
 ---
 
-## 🎯 Key Concepts
+## Key Concepts
 - System Monitoring  
 - Background Processing  
 - API Reliability  
@@ -45,18 +45,18 @@ API Uptime Monitor is a backend system designed to track the availability and pe
 
 ---
 
-## 👨‍💻 My Contribution
+## My Contribution
 - Worked on backend logic and API design  
 - Implemented monitoring workflow and data handling  
 - Contributed to system structure and testing  
 
 ---
 
-## 🤝 Acknowledgement
+## Acknowledgement
 This project was originally developed as part of a **college group project**.  
 This repository represents my individual copy with improvements and documentation.
 
 ---
 
-## 📌 Author
+## Author
 **Sakshi**  
